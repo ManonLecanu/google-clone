@@ -48,6 +48,6 @@ google-clone/
 ---
 
 ## Statut du projet
-![Statut](https://img.shields.io:badge/Statut-Terminé-brightgreen)
+![Statut](https://img.shields.io/badge/Statut-Terminé-brightgreen)
   
   
