@@ -20,7 +20,7 @@ Une réplique simple de la page d'accueil de Google - développée dans le cadre
 
 ## Aperçu
 
-![screenshot](images/screenshot.png)
+![Aperçu de la page](images/screenshot.png)
 
 ---
 
@@ -30,7 +30,7 @@ google-clone/
 - index.html
 - style.css
 - script.js
-- image/
+- images/
   - screenshot.png
 - README.md
 
