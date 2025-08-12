@@ -12,9 +12,10 @@ Une réplique simple de la page d'accueil de Google - développée dans le cadre
 
 ## Technologies utilisées
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=htm15&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
+![Netlify](https://img.shields.io/badge/-Netlify=00C7B7?logo=netlify&logoColor=white&style=flat)
 
 ---
 
