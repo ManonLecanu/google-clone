@@ -20,7 +20,7 @@ Une réplique simple de la page d'accueil de Google - développée dans le cadre
 
 ## Aperçu
 
-![Aperçu de la page](./images/screenshot-google-clone.png)
+![Aperçu de la page](images/screenshot-google-clone.png)
 
 ---
 
