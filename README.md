@@ -31,7 +31,7 @@ google-clone/
 - style.css
 - script.js
 - images/
-  - screenshot.png
+  - screenshot-google-clone.png
 - README.md
 
 ---
